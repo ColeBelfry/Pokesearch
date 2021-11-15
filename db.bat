@@ -1,0 +1,1 @@
+"C:\Program Files\MongoDB\Server\5.0\bin\mongod" --dbpath "C:\Users\cbelfry\OneDrive - Neumont College of Computer Science\Second Year\Fall 2021\Sprint 1\Interactive Web Dev\Javascript\Pokesearch\data"
